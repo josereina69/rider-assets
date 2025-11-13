@@ -1,1 +1,188 @@
-
+[
+  // --- MICRÓFONOS ---
+  {
+    "id": "mic-dinamico-vocal",
+    "name": "Micrófono Dinámico Vocal",
+    "category": "Micrófonos",
+    "filename": "mic_dinamico_vocal.svg",
+    "type": "svg",
+    "tags": ["vocal", "dinamico", "directo"],
+    "url": "https://[tu-usuario].github.io/[repositorio]/assets/svg/mic_dinamico_vocal.svg"
+  },
+  {
+    "id": "mic-condensador-estudio",
+    "name": "Micrófono de Condensador",
+    "category": "Micrófonos",
+    "filename": "mic_condensador.svg",
+    "type": "svg",
+    "tags": ["estudio", "condensador", "overhead"],
+    "url": "https://[tu-usuario].github.io/[repositorio]/assets/svg/mic_condensador.svg"
+  },
+  {
+    "id": "mic-instrumento-sm57",
+    "name": "Micrófono de Instrumento",
+    "category": "Micrófonos",
+    "filename": "mic_instrumento.svg",
+    "type": "svg",
+    "tags": ["guitarra", "bateria", "instrumento"],
+    "url": "https://[tu-usuario].github.io/[repositorio]/assets/svg/mic_instrumento.svg"
+  },
+  // --- MEZCLA Y CONTROL ---
+  {
+    "id": "consola-mezclas-digital",
+    "name": "Consola de Mezclas Digital",
+    "category": "Mezcla y Control",
+    "filename": "consola_digital.svg",
+    "type": "svg",
+    "tags": ["mesa", "mixer", "digital"],
+    "url": "https://[tu-usuario].github.io/[repositorio]/assets/svg/consola_digital.svg"
+  },
+  {
+    "id": "ecualizador-rack",
+    "name": "Ecualizador de Rack",
+    "category": "Mezcla y Control",
+    "filename": "eq_rack.svg",
+    "type": "svg",
+    "tags": ["rack", "efecto", "eq"],
+    "url": "https://[tu-usuario].github.io/[repositorio]/assets/svg/eq_rack.svg"
+  },
+  {
+    "id": "procesador-efectos",
+    "name": "Procesador de Efectos",
+    "category": "Mezcla y Control",
+    "filename": "fx_processor.svg",
+    "type": "svg",
+    "tags": ["reverb", "delay", "efecto"],
+    "url": "https://[tu-usuario].github.io/[repositorio]/assets/svg/fx_processor.svg"
+  },
+  {
+    "id": "controlador-midi-teclado",
+    "name": "Controlador MIDI (Teclado)",
+    "category": "Mezcla y Control",
+    "filename": "midi_teclado.svg",
+    "type": "svg",
+    "tags": ["teclado", "sintetizador", "midi"],
+    "url": "https://[tu-usuario].github.io/[repositorio]/assets/svg/midi_teclado.svg"
+  },
+  // --- MONITORES Y PA ---
+  {
+    "id": "monitor-escenario-wedge",
+    "name": "Monitor de Escenario (Wedge)",
+    "category": "Monitores y PA",
+    "filename": "monitor_wedge.svg",
+    "type": "svg",
+    "tags": ["cuña", "suelo", "escenario"],
+    "url": "https://[tu-usuario].github.io/[repositorio]/assets/svg/monitor_wedge.svg"
+  },
+  {
+    "id": "caja-pa-principal",
+    "name": "Caja PA Activa/Pasiva",
+    "category": "Monitores y PA",
+    "filename": "caja_pa.svg",
+    "type": "svg",
+    "tags": ["altavoz", "pa", "sonorizacion"],
+    "url": "https://[tu-usuario].github.io/[repositorio]/assets/svg/caja_pa.svg"
+  },
+  {
+    "id": "subwoofer-graves",
+    "name": "Subwoofer / Altavoz de Graves",
+    "category": "Monitores y PA",
+    "filename": "subwoofer.svg",
+    "type": "svg",
+    "tags": ["graves", "bass", "sub"],
+    "url": "https://[tu-usuario].github.io/[repositorio]/assets/svg/subwoofer.svg"
+  },
+  // --- CABLEADO Y CONEXIONES ---
+  {
+    "id": "cable-xlr-macho",
+    "name": "Cable XLR",
+    "category": "Cableado y Conexiones",
+    "filename": "cable_xlr.svg",
+    "type": "svg",
+    "tags": ["canon", "audio", "cable"],
+    "url": "https://[tu-usuario].github.io/[repositorio]/assets/svg/cable_xlr.svg"
+  },
+  {
+    "id": "di-box-activo",
+    "name": "D.I. Box",
+    "category": "Cableado y Conexiones",
+    "filename": "di_box.svg",
+    "type": "svg",
+    "tags": ["direct box", "caja inyeccion", "conversion"],
+    "url": "https://[tu-usuario].github.io/[repositorio]/assets/svg/di_box.svg"
+  },
+  {
+    "id": "manguera-escenario",
+    "name": "Manguera de Escenario (Snake)",
+    "category": "Cableado y Conexiones",
+    "filename": "manguera_escenario.svg",
+    "type": "svg",
+    "tags": ["multicore", "snake", "cableado"],
+    "url": "https://[tu-usuario].github.io/[repositorio]/assets/svg/manguera_escenario.svg"
+  },
+  // --- ILUMINACIÓN ---
+  {
+    "id": "foco-par-led-rgb",
+    "name": "Foco Par LED",
+    "category": "Iluminación",
+    "filename": "foco_par_led.svg",
+    "type": "svg",
+    "tags": ["parcan", "luz", "foco"],
+    "url": "https://[tu-usuario].github.io/[repositorio]/assets/svg/foco_par_led.svg"
+  },
+  {
+    "id": "cabeza-movil-spot",
+    "name": "Cabeza Móvil / Beam",
+    "category": "Iluminación",
+    "filename": "cabeza_movil.svg",
+    "type": "svg",
+    "tags": ["robotica", "spot", "luz"],
+    "url": "https://[tu-usuario].github.io/[repositorio]/assets/svg/cabeza_movil.svg"
+  },
+  {
+    "id": "mesa-dmx",
+    "name": "Consola DMX de Iluminación",
+    "category": "Iluminación",
+    "filename": "mesa_dmx.svg",
+    "type": "svg",
+    "tags": ["dmx", "control", "luz"],
+    "url": "https://[tu-usuario].github.io/[repositorio]/assets/svg/mesa_dmx.svg"
+  },
+  // --- ACCESORIOS Y ESTRUCTURA ---
+  {
+    "id": "soporte-micro-alto",
+    "name": "Pie/Soporte de Micrófono",
+    "category": "Accesorios y Estructura",
+    "filename": "pie_micro.svg",
+    "type": "svg",
+    "tags": ["base", "soporte", "pie"],
+    "url": "https://[tu-usuario].github.io/[repositorio]/assets/svg/pie_micro.svg"
+  },
+  {
+    "id": "flight-case-general",
+    "name": "Flight Case / Rack",
+    "category": "Accesorios y Estructura",
+    "filename": "flight_case.svg",
+    "type": "svg",
+    "tags": ["rack", "transporte", "caja"],
+    "url": "https://[tu-usuario].github.io/[repositorio]/assets/svg/flight_case.svg"
+  },
+  {
+    "id": "atril-partituras",
+    "name": "Atril de Partituras",
+    "category": "Accesorios y Estructura",
+    "filename": "atril.svg",
+    "type": "svg",
+    "tags": ["musico", "partitura", "atril"],
+    "url": "https://[tu-usuario].github.io/[repositorio]/assets/svg/atril.svg"
+  },
+  {
+    "id": "power-distribucion",
+    "name": "Distribución de Corriente",
+    "category": "Accesorios y Estructura",
+    "filename": "distribucion_power.svg",
+    "type": "svg",
+    "tags": ["electricidad", "corriente", "distribuidor"],
+    "url": "https://[tu-usuario].github.io/[repositorio]/assets/svg/distribucion_power.svg"
+  }
+]
