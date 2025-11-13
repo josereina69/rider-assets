@@ -7,7 +7,7 @@
     "filename": "mic_dinamico_vocal.svg",
     "type": "svg",
     "tags": ["vocal", "dinamico", "directo"],
-    "url": "https://[tu-usuario].github.io/[repositorio]/assets/svg/mic_dinamico_vocal.svg"
+    "url": "https://josereina69.github.io/rider-assets/assets/svg/mic_dinamico_vocal.svg"
   },
   {
     "id": "mic-condensador-estudio",
@@ -16,7 +16,7 @@
     "filename": "mic_condensador.svg",
     "type": "svg",
     "tags": ["estudio", "condensador", "overhead"],
-    "url": "https://[tu-usuario].github.io/[repositorio]/assets/svg/mic_condensador.svg"
+    "url": "https://josereina69.github.io/rider-assets/assets/svg/mic_condensador.svg"
   },
   {
     "id": "mic-instrumento-sm57",
@@ -25,7 +25,7 @@
     "filename": "mic_instrumento.svg",
     "type": "svg",
     "tags": ["guitarra", "bateria", "instrumento"],
-    "url": "https://[tu-usuario].github.io/[repositorio]/assets/svg/mic_instrumento.svg"
+    "url": "https://josereina69.github.io/rider-assets/assets/svg/mic_instrumento.svg"
   },
   // --- MEZCLA Y CONTROL ---
   {
@@ -35,7 +35,7 @@
     "filename": "consola_digital.svg",
     "type": "svg",
     "tags": ["mesa", "mixer", "digital"],
-    "url": "https://[tu-usuario].github.io/[repositorio]/assets/svg/consola_digital.svg"
+    "url": "https://josereina69.github.io/rider-assets/assets/svg/consola_digital.svg"
   },
   {
     "id": "ecualizador-rack",
@@ -44,7 +44,7 @@
     "filename": "eq_rack.svg",
     "type": "svg",
     "tags": ["rack", "efecto", "eq"],
-    "url": "https://[tu-usuario].github.io/[repositorio]/assets/svg/eq_rack.svg"
+    "url": "https://josereina69.github.io/rider-assets/assets/svg/eq_rack.svg"
   },
   {
     "id": "procesador-efectos",
@@ -53,7 +53,7 @@
     "filename": "fx_processor.svg",
     "type": "svg",
     "tags": ["reverb", "delay", "efecto"],
-    "url": "https://[tu-usuario].github.io/[repositorio]/assets/svg/fx_processor.svg"
+    "url": "https://josereina69.github.io/rider-assets/assets/svg/fx_processor.svg"
   },
   {
     "id": "controlador-midi-teclado",
@@ -62,7 +62,7 @@
     "filename": "midi_teclado.svg",
     "type": "svg",
     "tags": ["teclado", "sintetizador", "midi"],
-    "url": "https://[tu-usuario].github.io/[repositorio]/assets/svg/midi_teclado.svg"
+    "url": "https://josereina69.github.io/rider-assets/assets/svg/midi_teclado.svg"
   },
   // --- MONITORES Y PA ---
   {
@@ -72,7 +72,7 @@
     "filename": "monitor_wedge.svg",
     "type": "svg",
     "tags": ["cuña", "suelo", "escenario"],
-    "url": "https://[tu-usuario].github.io/[repositorio]/assets/svg/monitor_wedge.svg"
+    "url": "https://josereina69.github.io/rider-assets/assets/svg/monitor_wedge.svg"
   },
   {
     "id": "caja-pa-principal",
@@ -81,7 +81,7 @@
     "filename": "caja_pa.svg",
     "type": "svg",
     "tags": ["altavoz", "pa", "sonorizacion"],
-    "url": "https://[tu-usuario].github.io/[repositorio]/assets/svg/caja_pa.svg"
+    "url": "https://josereina69.github.io/rider-assets/assets/svg/caja_pa.svg"
   },
   {
     "id": "subwoofer-graves",
@@ -90,7 +90,7 @@
     "filename": "subwoofer.svg",
     "type": "svg",
     "tags": ["graves", "bass", "sub"],
-    "url": "https://[tu-usuario].github.io/[repositorio]/assets/svg/subwoofer.svg"
+    "url": "https://josereina69.github.io/rider-assets/assets/svg/subwoofer.svg"
   },
   // --- CABLEADO Y CONEXIONES ---
   {
@@ -100,7 +100,7 @@
     "filename": "cable_xlr.svg",
     "type": "svg",
     "tags": ["canon", "audio", "cable"],
-    "url": "https://[tu-usuario].github.io/[repositorio]/assets/svg/cable_xlr.svg"
+    "url": "https://josereina69.github.io/rider-assets/assets/svg/cable_xlr.svg"
   },
   {
     "id": "di-box-activo",
@@ -109,7 +109,7 @@
     "filename": "di_box.svg",
     "type": "svg",
     "tags": ["direct box", "caja inyeccion", "conversion"],
-    "url": "https://[tu-usuario].github.io/[repositorio]/assets/svg/di_box.svg"
+    "url": "https://josereina69.github.io/rider-assets/assets/svg/di_box.svg"
   },
   {
     "id": "manguera-escenario",
@@ -118,7 +118,7 @@
     "filename": "manguera_escenario.svg",
     "type": "svg",
     "tags": ["multicore", "snake", "cableado"],
-    "url": "https://[tu-usuario].github.io/[repositorio]/assets/svg/manguera_escenario.svg"
+    "url": "https://josereina69.github.io/rider-assets/assets/svg/manguera_escenario.svg"
   },
   // --- ILUMINACIÓN ---
   {
@@ -128,7 +128,7 @@
     "filename": "foco_par_led.svg",
     "type": "svg",
     "tags": ["parcan", "luz", "foco"],
-    "url": "https://[tu-usuario].github.io/[repositorio]/assets/svg/foco_par_led.svg"
+    "url": "https://josereina69.github.io/rider-assets/assets/svg/foco_par_led.svg"
   },
   {
     "id": "cabeza-movil-spot",
@@ -137,7 +137,7 @@
     "filename": "cabeza_movil.svg",
     "type": "svg",
     "tags": ["robotica", "spot", "luz"],
-    "url": "https://[tu-usuario].github.io/[repositorio]/assets/svg/cabeza_movil.svg"
+    "url": "https://josereina69.github.io/rider-assets/assets/svg/cabeza_movil.svg"
   },
   {
     "id": "mesa-dmx",
@@ -146,7 +146,7 @@
     "filename": "mesa_dmx.svg",
     "type": "svg",
     "tags": ["dmx", "control", "luz"],
-    "url": "https://[tu-usuario].github.io/[repositorio]/assets/svg/mesa_dmx.svg"
+    "url": "https://josereina69.github.io/rider-assets/assets/svg/mesa_dmx.svg"
   },
   // --- ACCESORIOS Y ESTRUCTURA ---
   {
@@ -156,7 +156,7 @@
     "filename": "pie_micro.svg",
     "type": "svg",
     "tags": ["base", "soporte", "pie"],
-    "url": "https://[tu-usuario].github.io/[repositorio]/assets/svg/pie_micro.svg"
+    "url": "https://josereina69.github.io/rider-assets/assets/svg/pie_micro.svg"
   },
   {
     "id": "flight-case-general",
@@ -165,7 +165,7 @@
     "filename": "flight_case.svg",
     "type": "svg",
     "tags": ["rack", "transporte", "caja"],
-    "url": "https://[tu-usuario].github.io/[repositorio]/assets/svg/flight_case.svg"
+    "url": "https://josereina69.github.io/rider-assets/assets/svg/flight_case.svg"
   },
   {
     "id": "atril-partituras",
@@ -174,7 +174,7 @@
     "filename": "atril.svg",
     "type": "svg",
     "tags": ["musico", "partitura", "atril"],
-    "url": "https://[tu-usuario].github.io/[repositorio]/assets/svg/atril.svg"
+    "url": "https://josereina69.github.io/rider-assets/assets/svg/atril.svg"
   },
   {
     "id": "power-distribucion",
@@ -183,6 +183,6 @@
     "filename": "distribucion_power.svg",
     "type": "svg",
     "tags": ["electricidad", "corriente", "distribuidor"],
-    "url": "https://[tu-usuario].github.io/[repositorio]/assets/svg/distribucion_power.svg"
+    "url": "https://josereina69.github.io/rider-assets/assets/svg/distribucion_power.svg"
   }
 ]
